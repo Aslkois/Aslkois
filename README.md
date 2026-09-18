@@ -1,16 +1,20 @@
-## Hi there 👋
+# aslkois
 
-<!--
-**Aslkois/Aslkois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+game developer
 
-Here are some ideas to get you started:
+mainly working with luau, python, javascript, and linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## currently working on
+
+**unnamed tactical fps**  
+a roblox tactical fps based on siege
+
+**astroneer helper**  
+a web app for viewing astroneer resources, items, recipes, planets, and other game information
+
+**random software projects**  
+smaller projects while learning more general software development, web development, git, and linux
+
+## interests
+
+game development, software engineering, computer engineering, linux, and hardware
