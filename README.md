@@ -1,6 +1,7 @@
 # aslkois
 
 game developer
+
 aspiring computer/software engineer
 
 started coding on scratch when I was young, those experiences left a lasting impression on me.
